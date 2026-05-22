@@ -1,0 +1,49 @@
+{
+  "landing": {
+    "title": "Start a new session",
+    "error": "Failed to create session."
+  },
+  "panel": {
+    "viewers": "Viewers",
+    "copyLink": "Copy viewer link",
+    "prepare": "Prepare",
+    "ready": "Ready!",
+    "stop": "Stop stream",
+    "checkingPermissions": "Checking permissions...",
+    "prepareStream": "Prepare the scene",
+    "minimize": "Minimize",
+    "streamPreviewPlaceholder": "The preview will be available here after the transmission is started.",
+    "video": "Video",
+    "audio": "Audio",
+    "summary": "Summary",
+    "fromPc": "From computer",
+    "audioEnabled": "Stream with audio",
+    "audioEnabledDesc": "This option decides whether your stream will have audio.",
+    "audioFromPc": "Audio from computer",
+    "audioFromPcDesc": "Share computer audio along with external audio device.",
+    "audioFromDevice": "Audio from external device",
+    "audioFromDeviceDesc": "Select a microphone, whose audio to include in the stream.",
+    "audioFromDeviceNoPermissionsErrorTitle": "No permissions",
+    "audioFromDeviceNoPermissionsErrorDesc": "Your browser does not support this function or you denied access to audio devices.",
+    "inputDevice": "Input device",
+    "next": "Next",
+    "isNotLive": "Stream is off",
+    "isLive": "You're live",
+    "goLive": "Go live",
+    "back": "Back",
+    "connectionError": "Error connecting to server",
+    "disconnected": "Disconnected from server",
+    "limitedFunctionality": "Camera and microphone access denied. Limited to screen sharing only.",
+    "unknownDevice": "Unknown device",
+    "none": "None"
+  },
+  "watch": {
+    "title": "Stream on StreamLine",
+    "watchStream": "Watch stream",
+    "waiting": "Waiting for stream to start..."
+  },
+  "common": {
+    "language": "Language",
+    "backToHome": "Back to Home"
+  }
+}
