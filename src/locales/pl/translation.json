@@ -1,0 +1,49 @@
+{
+  "landing": {
+    "title": "Rozpocznij nową sesję",
+    "error": "Nie udało się utworzyć sesji."
+  },
+  "panel": {
+    "viewers": "Widzowie",
+    "copyLink": "Kopiuj link dla widzów",
+    "prepare": "Przygotuj",
+    "ready": "Gotowe!",
+    "stop": "Zakończ transmisję",
+    "checkingPermissions": "Sprawdzanie uprawnień...",
+    "prepareStream": "Przygotowanie sceny",
+    "minimize": "Minimalizuj",
+    "streamPreviewPlaceholder": "Tu zobaczysz podgląd po rozpoczęciu transmisji.",
+    "video": "Wideo",
+    "audio": "Audio",
+    "summary": "Podsumowanie",
+    "fromPc": "Z komputera",
+    "audioEnabled": "Transmisja z dźwiękiem",
+    "audioEnabledDesc": "Ta opcja zdecyduje, czy Twoja transmisja będzie miała dźwięk.",
+    "audioFromPc": "Dźwięk z komputera",
+    "audioFromPcDesc": "Zaznacz tę opcję aby spróbować udostępnić również dźwięk z komputera obok zewnętrznego urządzenia audio.",
+    "audioFromDevice": "Dźwięk z zewn. urządzenia audio",
+    "audioFromDeviceDesc": "Wybierz mikrofon, którego dźwięk zostanie uwzględniony w transmisji.",
+    "audioFromDeviceNoPermissionsErrorTitle": "Brak uprawnień",
+    "audioFromDeviceNoPermissionsErrorDesc": "Twoja przeglądarka nie obsługuje tej funkcji lub odmówiono dostępu do urządzeń audio.",
+    "inputDevice": "Urządzenie wejścia",
+    "next": "Dalej",
+    "isNotLive": "Transmisja wyłączona",
+    "isLive": "Transmituję na żywo",
+    "goLive": "Rozpocznij transmisję",
+    "back": "Wstecz",
+    "connectionError": "Błąd połączenia",
+    "disconnected": "Rozłączono z serwerem",
+    "limitedFunctionality": "Odmówiono dostępu do kamery i mikrofonu. Możliwe tylko udostępnianie ekranu.",
+    "unknownDevice": "Nieznane urządzenie",
+    "none": "Brak"
+  },
+  "watch": {
+    "title": "Transmisja na StreamLine",
+    "watchStream": "Obejrzyj transmisję",
+    "waiting": "Oczekiwanie na rozpoczęcie transmisji..."
+  },
+  "common": {
+    "language": "Język",
+    "backToHome": "Wróć na stronę główną"
+  }
+}
