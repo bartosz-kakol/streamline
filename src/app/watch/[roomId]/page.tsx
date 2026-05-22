@@ -87,6 +87,14 @@ export default function WatcherPage() {
                 if (type === "offer") {
                     await pc.setRemoteDescription(new RTCSessionDescription(data));
                     const answer = await pc.createAnswer();
+
+                    if (answer.sdp) {
+                        answer.sdp = answer.sdp.replace(
+                            "useinbandfec=1",
+                            "useinbandfec=1; stereo=1; maxaveragebitrate=510000"
+                        );
+                    }
+
                     await pc.setLocalDescription(answer);
           
                     channel.send({
